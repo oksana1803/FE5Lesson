@@ -4,6 +4,10 @@
 body {
     background: #E5E5E5;
 }
+.container {
+    width: 1900px;
+    margin: 0 auto;
+}
 .sqrt1 {
     width: 300px;
     height: 300px;
